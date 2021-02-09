@@ -11,6 +11,7 @@
 ## Screenshots
 ![Example screenshot](https://snipboard.io/KUmR7D.jpg)
 ![Example screenshot](https://snipboard.io/EfyNgz.jpg)
+![Example screenshot](https://snipboard.io/fNwjF2.jpg)
 
 ## Technologies
 * Java
