@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="PDFbox">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/PDFBox/lib/boxable-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/PDFBox/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/PDFBox/lib/fontbox-2.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/PDFBox/lib/guava-29.0-android.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/PDFBox/lib/pdfbox-2.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/PDFBox/lib/pdfbox-tools-2.0.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/PDFBox/lib/slf4j-api-1.7.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/PDFBox/lib/xmpbox-2.0.21.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
